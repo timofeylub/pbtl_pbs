@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ziu-682-izhevsk-1348",
+    "type": "skin",
+    "name": "Окраска «Ижевск»",
+    "author": "TimofeyL",
+    "description": "Скин воссоздаёт окраску борта №1348. Бело-красная ливрея была нанесена при КР в декабре 2011 г. и сохранена при плановом КР 12.2017 г.",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/Ub90Hdj5T51Cl3Y",
+      "sharemods": "https://sharemods.com/s1kdqs5nlv87/izh_1348.zip.html"
+    },
+    "compatibleModel": "ЗиУ-682Г-016.02 от Mavid 274",
+    "city": "Ижевск"
+  },
+  {
+    "id": "ziu-682-yaroslavl-46",
+    "type": "skin",
+    "name": "Окраска «Ярославль №46»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального троллейбуса из Ярославля ЗиУ-682Г-016.02 №46",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/168Jp0ZMLd9MnGD"
+    },
+    "compatibleModel": "ЗиУ-682Г-016.02 от Mavid 274",
+    "city": "Ярославль"
+  },
+  {
+    "id": "nefaz-5299-rybinsk-u293vr",
+    "type": "skin",
+    "name": "Окраска «Рыбинск У293ВР 76 (№064)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса из Рыбинска НефАЗ-5299-17-52 №064 (У293ВР 76)",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/5faTUX92qYzvBL0"
+    },
+    "compatibleModel": "NefAZ-5299-17-52 от itzkvm",
+    "city": "Рыбинск"
+  },
+  {
+    "id": "liaz-5256-58-rybinsk-t241xo",
+    "type": "skin",
+    "name": "Окраска «Рыбинск Т241ХО 76 (№720)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса из Рыбинска ЛиАЗ 5256.58 2012 г.в. №720 (Т241ХО 76)",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/8YP7N93jP3v37X0"
+    },
+    "compatibleModel": "ЛиАЗ 5256.58 2012 от Vitaliy Shkarupa",
+    "city": "Рыбинск",
+    "notes": "Отсутствуют некоторые наклейки на окнах, не очень ровно отрисована маска"
+  },
+  {
+    "id": "liaz-5256-45-rybinsk-ve025",
+    "type": "skin",
+    "name": "Окраска «Рыбинск ВЕ025 76 (№106)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса из Рыбинска ЛиАЗ 5256.45 2006 г.в. №106 (ВЕ025 76)",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/s892F2V3z5KIULb"
+    },
+    "compatibleModel": "ЛиАЗ 5256.45 2006 от YrymHan",
+    "city": "Рыбинск",
+    "notes": "Задние фары квадратные, а не круглые"
+  },
+  {
+    "id": "liaz-5256-53-rybinsk-s722rn",
+    "type": "skin",
+    "name": "Окраска «Рыбинск С722РН 76 (№551)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса из Рыбинска ЛиАЗ 5256.53 2011 г.в. №551 (С722РН 76). Распаковывать в подкаталог skins532011",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/V1IDcN29cK571dc"
+    },
+    "compatibleModel": "ЛиАЗ 5256.53 2011 от YrymHan",
+    "city": "Рыбинск",
+    "notes": "Не изменён салон",
+    "installPath": "skins532011"
+  },
+  {
+    "id": "liaz-5256-60-rybinsk-x400un",
+    "type": "skin",
+    "name": "Окраска «Рыбинск Х400УН 76 (№151)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса из Рыбинска ЛиАЗ 5256.60 2015 г.в. №151 (Х400УН 76). Распаковывать в папку skins602015",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/m1wyQ2TB6Dbt97o"
+    },
+    "compatibleModel": "ЛиАЗ 5256.60 2015 от YrymHan",
+    "city": "Рыбинск",
+    "notes": "Отсутствует небольшая табличка на стекле (нет развёртки стёкол); Некорректный цвет дверей; Не изменён салон",
+    "installPath": "skins602015"
+  },
+  {
+    "id": "kavz-4238-yavtobus-1004",
+    "type": "skin",
+    "name": "Окраска «Яавтобус Ярославской области (№1004)»",
+    "author": "TimofeyL",
+    "description": "Окраска создана на основе реального автобуса КАвЗ-4238-61 №1004 (Х063АС 76)",
+    "cover": "/placeholder.svg",
+    "screenshots": ["/placeholder.svg", "/placeholder.svg"],
+    "downloads": {
+      "modsfire": "https://modsfire.com/5LiWtbCRyqXmPWj"
+    },
+    "compatibleModel": "КАвЗ 4238-62 от JPB",
+    "city": "Ярославская область",
+    "notes": "Отсутствует надпись «Яавтобус» на стекле (нет развёртки стёкол); Небольшие отклонения у белой текстуры около фар; Не изменён салон"
+  }
+]
